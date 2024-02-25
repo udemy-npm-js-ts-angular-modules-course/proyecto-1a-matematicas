@@ -1,0 +1,28 @@
+{
+  "name": "proyecto-1a-matematicas",
+  "version": "1.0.0",
+  "description": "Proyecto de matemáticas sencillo para aprender NodeJs y subrilo a GitHub",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/udemy-npm-js-ts-angular-modules-course/proyecto-1a-matematicas.git"
+  },
+  "keywords": [
+    "math",
+    "matematica",
+    "suma",
+    "resta",
+    "division",
+    "multiplicacion",
+    "basico"
+  ],
+  "author": "Gustavo Conturzo <gconturzo@gmail.com> (https://conturzo.ar)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/udemy-npm-js-ts-angular-modules-course/proyecto-1a-matematicas/issues"
+  },
+  "homepage": "https://github.com/udemy-npm-js-ts-angular-modules-course/proyecto-1a-matematicas#readme"
+}
