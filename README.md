@@ -5,14 +5,14 @@ Módulo para realizar operaciones matemáticas simples
 ## Instalación
 Seguir estas instrucciones
 
-'''
+```
 npm install curso-proyecto-1a-matematicas
-'''
+```
 
 # Uso
 Seguir estas instrucciones
 
-'''
+```
 // Importar el módulo
 const m = require('./index');
 
@@ -31,4 +31,4 @@ console.log(m.multiplicacion(1, 2)); => 2
 // División
 console.log(m.division(1, 4)); => 0.25
 console.log(m.division(1, 2)); => 0.5
-'''
+```
